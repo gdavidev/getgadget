@@ -3,5 +3,5 @@ E-commerce website about eletronics.
 Deploy:
 
 ## Tech-used
-plan on using:
+Plan on using:
 Docker, TailWind, PostGreSQL, React, Webpack, Node
