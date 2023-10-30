@@ -1,4 +1,4 @@
-# GetGatget
+# GetGadget
 E-commerce website about eletronics.
 Deploy:
 
